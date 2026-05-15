@@ -62,6 +62,8 @@ Always on. Always available.
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maia-medley&layout=compact&theme=midnight-purple&hide_border=true) -->
 
+![snake](https://raw.githubusercontent.com/maia-medley/maia-medley/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
